@@ -9,6 +9,7 @@
    - [Wyszukiwanie minimum](#Wyszukiwanie-minimum)
    - [Sortowanie liczb](#Sortowanie-liczb)
 3. [Zabezpieczenia](#Zabezpieczenia)
+4. [Licencja](#Licencja)
 
 ## Opis programu
 Generator 50 liczb pseudolosowych to prosta aplikacja desktopowa, która generuje, zlicza, sortuje i wyświetla losowe liczby. Aplikacja po uruchomieniu zawiera:
@@ -85,3 +86,6 @@ Komunikat w przypadku próby sumowania, szukania minimum lub maksimum, lub sorto
 Komunikat w przypadku kiedy Minimum jest większe od Maksimum:
 
 ![Minimum większe od Maksimum](assets/MinWiekszeOdMax.png)
+
+### Licencja
+Aplikacja jest na licencji MIT więcej informacji w pliku [LICENSE](LICENSE)
