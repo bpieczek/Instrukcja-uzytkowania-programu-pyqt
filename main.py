@@ -23,6 +23,9 @@ class RandomNumberApp(QWidget):
        except ValueError:
            QMessageBox.warning(self, 'Uwaga!', 'Prosze wprowadź poprawne liczby')
            return
+       if max_value < min_value:
+           QMessageBox.warning(self, 'Uwaga!', 'Maksimum nie może być większe od minimum')
+           return
 
        self.sum_label.setText("Suma:")
        self.max_label.setText("Maksimum:")
