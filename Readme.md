@@ -65,7 +65,7 @@ Program po uruchomieniu:
 ### Zabezpieczenia
 Aplikacja ma zabezpieczenia, które uniemożliwiają obliczanie sumy, wyszukiwanie maksimum i minimum, jeśli liczby nie zostały jeszcze wygenerowane, w przypadku podania niepoprawnych liczb, oraz w przypadku kiedy maksimum będzie większe od minimum. W takim przypadku, wyświetlany będzie komunikat ostrzegawczy.
 
-Komunikat w przypadku braku podanego zakresu liczb lub w przypadku podaniu nieprawidłowych liczb (liczb lub znaków sepcjalnych):
+Komunikat w przypadku braku podanego zakresu liczb lub w przypadku podaniu nieprawidłowych liczb (liter lub znaków sepcjalnych):
 
 ![Komunikat Zle Liczby](assets/KomunikatZleLiczby.png)
 
