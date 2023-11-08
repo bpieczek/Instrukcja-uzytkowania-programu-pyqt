@@ -27,7 +27,7 @@ Generator 50 liczb pseudolosowych to prosta aplikacja desktopowa, która generuj
 Aplikacja została stworzona przy użyciu:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![PyQt](https://img.shields.io/badge/PyQt-%2523217346.svg?style=for-the-badge&logo=Qt&logoColor=white&color=%233366ff)
+![PyQt](https://img.shields.io/badge/PyQt5-%2523217346.svg?style=for-the-badge&logo=Qt&logoColor=white&color=%233366ff)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
 Program po uruchomieniu:
